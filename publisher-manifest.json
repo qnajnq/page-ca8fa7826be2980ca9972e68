@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "8e0adb9571c0203ea99426d1",
+  "owner": "qnajnq",
+  "repo": "page-ca8fa7826be2980ca9972e68",
+  "title": "明日香(eva)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ca8fa7826be2980ca9972e68",
+      "a": "明日香(eva)",
+      "b": "2027最新官网",
+      "entity": "明日香(eva)",
+      "brand": "明日香(eva)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5dd1ecac9f73fca58f5e5e3fd5006da7da88c3dafebb318d7434e27b70d5cd01",
+      "content": {
+        "primary_entity": "明日香(eva)",
+        "keyword1": "明日香(eva)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑选客户端，从桌面到移动端都有对应订阅方式。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "选好设备与套餐，按客户端文档完成订阅配置，即可开始使用明日香(eva)海外加速器。",
+          "AI_CLOSING_TITLE": "选套餐配订阅",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档订阅。基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 流量支持 5 台设备并带 IPLC 专线游戏加速优化，团队版每月 1000GB 流量支持 20 台设备。按年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。可按设备类型选择客户端，再对照套餐流量与在线设备数决定订阅周期。",
+          "AI_FEATURES_INTRO": "从套餐配置、设备数量与订阅周期三个角度了解如何选择。",
+          "AI_FEATURES_TITLE": "套餐、设备与周期",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用设备数匹配。",
+          "AI_FEATURE_TEXT_2": "月付适合短期使用，年付基础版 ¥150/年、旗舰版 ¥350/年更省。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点。",
+          "AI_FEATURE_TITLE_1": "按设备数选版本",
+          "AI_FEATURE_TITLE_2": "按周期算成本",
+          "AI_FEATURE_TITLE_3": "按用途挑线路",
+          "AI_GUIDE_INTRO": "三步完成从选服务到配置订阅的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "明日香(eva)海外加速器面向需要跨区域稳定连接的设备用户。三档订阅覆盖轻度上网、日常多设备以及团队协作场景，可按流量、在线设备数与线路需求选择基础版、旗舰版或团队版。",
+          "AI_HERO_SUBTITLE": "三档订阅，按设备与流量选",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，3 台设备在线",
+          "AI_HIGHLIGHT_2": "旗舰版每月 300GB，含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "团队版每月 1000GB，支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版适合 3 台以内设备轻度使用；旗舰版 5 台设备并有游戏加速需求；团队版 20 台设备、1000GB 流量适合多人共享。年付价格分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量、月流量和线路需求，从基础版、旗舰版、团队版中选定订阅。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的在线设备数与流量额度，核对是否符合使用场景。",
+          "AI_STEP_TEXT_3": "根据设备系统选择对应客户端，依照客户端文档导入订阅并完成配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "明日香(eva)海外加速器",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "明日香(eva)支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "可运行于常见的桌面与移动系统，具体以所用客户端为准。不同套餐支持同时在线的设备数量不同，基础版 3 台、旗舰版 5 台、团队版 20 台。",
+          "AI_FAQ_QUESTION_2": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_2": "购买后获得订阅信息，在对应客户端的订阅或配置入口粘贴导入，保存后更新节点即可使用。具体步骤可参考各客户端文档。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "功能权益一致，年付方案费用更低。基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，可按使用时长选择。",
+          "AI_FAQ_QUESTION_4": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_4": "每月流量按套餐档位重置。若经常超出，可升级到更高档位，旗舰版每月 300GB、团队版每月 1000GB，按需调整。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、支持 20 台设备同时在线，含 VIP 专属高带宽节点与企业定制路由，适合多人或小型团队使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--blqy78cmrel2w.com",
+    "host": "xn--blqy78cmrel2w.com"
+  },
+  "file_hashes": {
+    "index.html": "8a99a8ac121e7537bfcdd8b8ddda62089f4a1cbc184b6c9df527e0ec56b67df6",
+    "sitemap.xml": "6c0a242152cbb1d3774c3cb9e174d874db0690d50c4e84d55a58abfd793b33e5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "658d7076e6d8a0ab126b48227f9bc4bf661f61dda492032fba71da8c4de05a0b",
+    "robots.txt": "4792602f37318b432b1704c8b3206a2eb408dcdb87336c54a74b2c8abe9fcb7f",
+    "c32ba37b555ee2ffb58d748d58e0e349.txt": "89311b9d3fb1360fc8c95e032d2029edfbc0d6ed622a494182bf218bd5466c37"
+  },
+  "revision": "136f1747c9d80d2f1622d29234a34817ced73a68d51e8ed2b6a1719109a194d9"
+}
